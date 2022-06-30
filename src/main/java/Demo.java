@@ -5,5 +5,6 @@ public class Demo {
         System.out.println("asdf");
         System.out.println("qwerqwerqwer");
         System.out.println("asfasdfqwerqwerqwerqweasdf");
+        System.out.println("4");
     }
 }
